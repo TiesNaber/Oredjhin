@@ -17,11 +17,6 @@ public class ScriptableMove : ScriptableObject {
     
     FrameData framedata;
 
-   
-   
-    
-
-   
 }
 
 [CustomEditor(typeof(ScriptableMove))]
